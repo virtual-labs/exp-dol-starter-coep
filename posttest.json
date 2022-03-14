@@ -1,0 +1,66 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "DOL stands for:",
+      "answers": {
+        "a": "Digital on line starter",
+        "b": "Direct on line switch",
+        "c": "Direct on line starter",
+        "d": "None"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A DOL motor starter contains---------- for protection purpose.",
+      "answers": {
+        "a": "Relay",
+        "b": "Switch",
+        "c": "Over load relay",
+        "d": "None"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "For starting of an electric motor ----------is preferred.",
+      "answers": {
+        "a": "normally open (NO) switch",
+        "b": "normally open (NO) push button",
+        "c": "normally closed (NC) push button",
+        "d": "None"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "------------ is the criteria to limit the use of DOL starter.",
+      "answers": {
+        "a": "High inrush current",
+        "b": "Armature Current",
+        "c": "Size of the motor",
+        "d": "None"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " In which of the following applications DOL starter can be used?",
+      "answers": {
+        "a": "Conveyor belts",
+        "b": "Water pumps",
+        "c": " Both a and b",
+        "d": "None"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    } 
+  ]
+}
+

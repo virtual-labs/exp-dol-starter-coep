@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "An electric motor converts:",
+      "answers": {
+        "a": "Mechanical energy into electrical energy",
+        "b": "Electric energy in mechanical energy",
+        "c": "Both A and B",
+        "d": "None"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "---- is a unit to measure the output power of an electric motor",
+      "answers": {
+        "a": "Hz",
+        "b": "HV",
+        "c": "HP",
+        "d": "None"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The electric motor consists of:",
+      "answers": {
+        "a": "A spark plug",
+        "b": "Magnet",
+        "c": "Battery",
+        "d": "None"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The motor armature acts as:",
+      "answers": {
+        "a": "a rotor",
+        "b": "a stator",
+        "c": "an axle",
+        "d": "None"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "For operation of the .... application electric motor is not required",
+      "answers": {
+        "a": "Water filter",
+        "b": "Refrigerator",
+        "c": "Mixer",
+        "d": "None"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    } 
+  ]
+}
