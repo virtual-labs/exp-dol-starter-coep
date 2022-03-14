@@ -2,38 +2,64 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "An electric motor converts:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Mechanical energy into electrical energy",
+        "b": "Electric energy in mechanical energy",
+        "c": "Both A and B",
+        "d": "None"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "---- is a unit to measure the output power of an electric motor",
+      "answers": {
+        "a": "Hz",
+        "b": "HV",
+        "c": "HP",
+        "d": "None"
       },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The electric motor consists of:",
+      "answers": {
+        "a": "A spark plug",
+        "b": "Magnet",
+        "c": "Battery",
+        "d": "None"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The motor armature acts as:",
+      "answers": {
+        "a": "a rotor",
+        "b": "a stator",
+        "c": "an axle",
+        "d": "None"
+      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "For operation of the ….. application electric motor is not required",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Water filter",
+        "b": "Refrigerator",
+        "c": "Mixer",
+        "d": "None"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "a",
       "difficulty": "beginner"
-    }
+    } 
   ]
 }
