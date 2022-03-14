@@ -9,6 +9,6 @@
 #### Execute the following ladder on simulator and observe the output status:
 <center><img src="images/img1.png" title="" /></center>
 
-* You can develop ladder for a DOL “Direct On Line” starter using these instructions.
+* You can develop ladder for a DOL "Direct On Line" starter using these instructions.
 * You can also develop the logic using start and stop push buttons as explained under theory tab.
 * Observe the output status at different input conditions. 
